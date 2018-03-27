@@ -1,0 +1,8 @@
+%YAML:1.0
+embed: !!opencv-matrix
+   rows: 0
+   cols: 128
+   dt: f
+   data: []
+path:
+   []

@@ -1,0 +1,3 @@
+./query/0030.jpg ./db/0030.jpg 1
+./query/0037.jpg ./db/0037.jpg 1
+./query/0016.jpg ./db/0016.jpg 1

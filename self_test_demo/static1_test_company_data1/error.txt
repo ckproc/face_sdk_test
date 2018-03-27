@@ -1,0 +1,6 @@
+0.588912 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0005.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0005.jpg
+0.00405901 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0033.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0033.jpg
+0.571515 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0034.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0034.jpg
+0.568291 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0046.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0046.jpg
+0.566727 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0068.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0068.jpg
+0.581448 /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/query/0049.jpg /workspace1/ckp/mclab_test/self_test_demo/1k_test_data/company_data_clean/db/0049.jpg

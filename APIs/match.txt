@@ -1,0 +1,2 @@
+0_0.bmp /home/ckp/data/db1/gaoyang.jpg 0.55251
+1_0.bmp /home/ckp/data/db1/Carolina_Kluft.jpg 0.510711

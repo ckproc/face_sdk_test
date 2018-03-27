@@ -1,0 +1,2 @@
+#./test /home/ckp/mclab_face_sdk_v3.0/self_test_demo/generate_data/td.yml /home/ckp/mclab_face_sdk_v3.0/self_test_demo/generate_data/tq.yml /home/ckp/mclab_face_sdk_v3.0/self_test_demo/1k/train/matchlist.txt 0.7
+./test /home/ckp/mclab_face_sdk_v3.0/self_test_demo/generate_1k_data/vd.yml /home/ckp/mclab_face_sdk_v3.0/self_test_demo/generate_1k_data/vq.yml /home/ckp/mclab_face_sdk_v3.0/self_test_demo/1k_test_data/validation_data/matchlist.txt 0.60
